@@ -1,0 +1,16 @@
+# Secrets
+config.json
+
+# Logs
+logs/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temp
+_check.ps1
+_test.ps1
